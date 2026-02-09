@@ -8,5 +8,5 @@
 <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/099ed70f-4edb-47ea-bce4-10c3773b4e58" />
 <br><br>
 <h1>Exemplo 4:</h1>
-<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/ba978fb1-3d82-4652-90ba-913c2b7c957e" />
+<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/0cb92c2b-b1d9-4127-9605-7b4dd7c884bc" />
 <br><br>
